@@ -7,4 +7,4 @@ def fib(n):
     else:
         return fib(n-2) + fib(n-1)
 
-#useful to have a blank line after the function?
+#useful to have a blank line after the function
